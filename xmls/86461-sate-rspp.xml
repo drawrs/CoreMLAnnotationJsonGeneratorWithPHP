@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sate</folder>
+	<filename>86461-sate-rspp.jpg</filename>
+	<path>/Users/hilman/Documents/Datasets/Indonesia Traditional Food/Training Data/Sate/86461-sate-rspp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>11</ymin>
+			<xmax>590</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

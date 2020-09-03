@@ -1,0 +1,58 @@
+[
+    {
+        "imagefilename": "0_4588c77a-db61-4019-9ddb-f7d9bcfd0e92_467_315.jpg",
+        "annotation": [
+            {
+                "label": "sate",
+                "coordinates": {
+                    "x": 209,
+                    "y": 230,
+                    "width": 379,
+                    "height": 344
+                }
+            }
+        ]
+    },
+    {
+        "imagefilename": "10e00c1b-3cdb-4537-9d16-812b3b5b6e6d.jpg",
+        "annotation": [
+            {
+                "label": "sate",
+                "coordinates": {
+                    "x": 351,
+                    "y": 326,
+                    "width": 475,
+                    "height": 444
+                }
+            }
+        ]
+    },
+    {
+        "imagefilename": "86461-sate-rspp.jpg",
+        "annotation": [
+            {
+                "label": "sate",
+                "coordinates": {
+                    "x": 374,
+                    "y": 177,
+                    "width": 433,
+                    "height": 332
+                }
+            }
+        ]
+    },
+    {
+        "imagefilename": "cf3943d5-484e-4c01-a7ea-618fd27a04ee.jpg",
+        "annotation": [
+            {
+                "label": "sate",
+                "coordinates": {
+                    "x": 326,
+                    "y": 200,
+                    "width": 369,
+                    "height": 397
+                }
+            }
+        ]
+    }
+]

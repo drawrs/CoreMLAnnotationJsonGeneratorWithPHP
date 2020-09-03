@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sate</folder>
+	<filename>cf3943d5-484e-4c01-a7ea-618fd27a04ee.jpg</filename>
+	<path>/Users/hilman/Documents/Datasets/Indonesia Traditional Food/Training Data/Sate/cf3943d5-484e-4c01-a7ea-618fd27a04ee.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>1</ymin>
+			<xmax>510</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>
